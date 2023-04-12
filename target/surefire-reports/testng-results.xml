@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-12T19:43:08 IST" name="DatadrivenSuit" finished-at="2023-04-12T19:44:39 IST" duration-ms="91278">
+    <groups>
+    </groups>
+    <test started-at="2023-04-12T19:43:08 IST" name="DataDrivenTest" finished-at="2023-04-12T19:44:39 IST" duration-ms="91278">
+      <class name="testCases.LoginDataDrivenTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.LoginDataDrivenTest@6379eb]" started-at="2023-04-12T19:43:08 IST" name="setup" finished-at="2023-04-12T19:43:15 IST" duration-ms="6931" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_LoginDDT(java.util.Map)[pri:0, instance:testCases.LoginDataDrivenTest@6379eb]" started-at="2023-04-12T19:43:21 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-04-12T19:43:27 IST" duration-ms="5269" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{username=superadmin@myorganization, password=Admin@123, result=Superadmin}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LoginDDT -->
+        <test-method signature="test_LoginDDT(java.util.Map)[pri:0, instance:testCases.LoginDataDrivenTest@6379eb]" started-at="2023-04-12T19:43:27 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-04-12T19:43:31 IST" duration-ms="4057" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{username=prematp@gmail.com, password=Sudhir*#883, result=Employee}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LoginDDT -->
+        <test-method signature="test_LoginDDT(java.util.Map)[pri:0, instance:testCases.LoginDataDrivenTest@6379eb]" started-at="2023-04-12T19:43:31 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-04-12T19:43:37 IST" duration-ms="5885" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{username=selvaperuvaje@gmail.com, password=Thamilu#456, result=Admin}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LoginDDT -->
+        <test-method signature="test_LoginDDT(java.util.Map)[pri:0, instance:testCases.LoginDataDrivenTest@6379eb]" started-at="2023-04-12T19:43:37 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-04-12T19:43:41 IST" duration-ms="4757" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{username=vasanthr@gmail.com, password=Vasanth#843, result=HR}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LoginDDT -->
+        <test-method signature="test_LoginDDT(java.util.Map)[pri:0, instance:testCases.LoginDataDrivenTest@6379eb]" started-at="2023-04-12T19:43:41 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-04-12T19:43:52 IST" duration-ms="10696" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{username=asdf234@gmail.com, password=Whfgg$4562, result=invalid}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LoginDDT -->
+        <test-method signature="test_LoginDDT(java.util.Map)[pri:0, instance:testCases.LoginDataDrivenTest@6379eb]" started-at="2023-04-12T19:43:52 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-04-12T19:44:03 IST" duration-ms="10453" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{username=sdfgh346$#45@fgh.com, password=75232#$$%GHFF, result=invalid}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LoginDDT -->
+        <test-method signature="test_LoginDDT(java.util.Map)[pri:0, instance:testCases.LoginDataDrivenTest@6379eb]" started-at="2023-04-12T19:44:03 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-04-12T19:44:13 IST" duration-ms="10439" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{username=sdfghuhhjj2@, password=rfgbbnjnm, result=invalid}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LoginDDT -->
+        <test-method signature="test_LoginDDT(java.util.Map)[pri:0, instance:testCases.LoginDataDrivenTest@6379eb]" started-at="2023-04-12T19:44:13 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-04-12T19:44:23 IST" duration-ms="10372" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{username=aftyihdf@;jfgj, password=, result=invalid}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LoginDDT -->
+        <test-method signature="test_LoginDDT(java.util.Map)[pri:0, instance:testCases.LoginDataDrivenTest@6379eb]" started-at="2023-04-12T19:44:23 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-04-12T19:44:34 IST" duration-ms="10380" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{username=, password=45678346%^&&8, result=invalid}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LoginDDT -->
+        <test-method signature="test_LoginDDT(java.util.Map)[pri:0, instance:testCases.LoginDataDrivenTest@6379eb]" started-at="2023-04-12T19:44:34 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2023-04-12T19:44:39 IST" duration-ms="4833" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{username=superadmin@myorganization, password=Admin@123, result=Superadmin}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LoginDDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LoginDataDrivenTest@6379eb]" started-at="2023-04-12T19:44:39 IST" name="tearDown" finished-at="2023-04-12T19:44:39 IST" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.LoginDataDrivenTest -->
+    </test> <!-- DataDrivenTest -->
+  </suite> <!-- DatadrivenSuit -->
+</testng-results>

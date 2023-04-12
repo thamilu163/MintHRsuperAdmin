@@ -1,0 +1,406 @@
+14:59:41.460 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:59:43.577 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+14:59:43.593 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:59:48.263 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+14:59:48.264 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:59:52.280 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+14:59:52.280 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:59:56.380 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+14:59:56.382 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:00:07.038 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:00:07.038 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:00:17.397 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:00:17.397 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:00:28.106 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:00:38.472 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:15:33.889 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:15:44.228 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:15:54.633 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:16:04.977 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:18:10.974 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:18:21.318 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:18:31.490 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:18:41.648 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:18:51.968 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:19:02.213 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:19:12.401 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:19:22.572 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:30:55.585 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:30:58.800 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:30:58.824 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:31:02.970 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:31:02.973 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:31:07.399 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:31:07.401 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:31:11.404 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:31:11.404 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:31:22.087 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:31:22.087 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:31:32.545 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:31:32.545 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:31:43.108 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:31:53.501 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:34:10.413 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:34:13.032 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:34:13.050 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:34:18.637 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:34:18.646 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:34:22.619 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:34:22.619 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:34:27.096 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:34:27.096 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:34:37.552 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:34:37.553 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:34:47.996 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:34:47.997 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:34:58.592 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:35:09.009 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:21:46.377 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Clicking on Home page***
+16:21:52.059 [main] INFO  testCases.TC_002_AddOraganisationTest - ***adding organisation details****
+16:21:56.258 [main] INFO  testCases.TC_002_AddOraganisationTest - ***filling communication address details***
+16:21:57.033 [main] INFO  testCases.TC_002_AddOraganisationTest - ***filling Registered address  details***
+16:21:57.724 [main] INFO  testCases.TC_002_AddOraganisationTest - ***clicking on save next button***
+16:21:57.772 [main] INFO  testCases.TC_002_AddOraganisationTest - ***successfully clicked on save and next button***
+16:21:57.772 [main] INFO  testCases.TC_002_AddOraganisationTest - ****will Validate condition in contact person page***
+16:21:58.383 [main] INFO  testCases.TC_002_AddOraganisationTest - **** Validated condition in contact person page***
+16:21:58.383 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Basic data of addOrganisation done***
+16:21:58.412 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Filling details into contact person page***
+16:21:58.952 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Filled  contact person details***
+16:21:59.052 [main] INFO  testCases.TC_002_AddOraganisationTest - ****checking functionality of privious button in contact person page***
+16:21:59.105 [main] INFO  testCases.TC_002_AddOraganisationTest - ****back to contact person details***
+16:22:00.313 [main] INFO  testCases.TC_002_AddOraganisationTest - ***filled Account Manager details
+16:22:00.339 [main] INFO  testCases.TC_002_AddOraganisationTest - ****Clicked save and next button***
+16:22:00.906 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Validated an element in Bank detail page***
+16:22:00.909 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Will enter banking details***
+16:22:01.556 [main] INFO  testCases.TC_002_AddOraganisationTest - *** entered banking details***
+16:22:01.556 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Will enter banking contact person  details***
+16:22:02.134 [main] INFO  testCases.TC_002_AddOraganisationTest - entered phone number
+16:22:02.135 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Will enter banking address details***
+16:22:02.329 [main] INFO  testCases.TC_002_AddOraganisationTest - ***checking functionality of privious button in Banking detail page***
+16:22:02.364 [main] INFO  testCases.TC_002_AddOraganisationTest - *** privious button works fine in Banking detail page***
+16:22:02.398 [main] INFO  testCases.TC_002_AddOraganisationTest - ***back to banking address details***
+16:22:02.945 [main] INFO  testCases.TC_002_AddOraganisationTest - ***entred postal pincode***
+16:22:03.037 [main] INFO  testCases.TC_002_AddOraganisationTest - ***entred state***
+16:22:03.188 [main] INFO  testCases.TC_002_AddOraganisationTest - ****entered All the details of Banks****
+16:22:03.188 [main] INFO  testCases.TC_002_AddOraganisationTest - ***successfully clicked on save button***
+16:22:06.345 [main] INFO  testCases.TC_002_AddOraganisationTest - **Condition validated**
+16:37:15.673 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:37:17.918 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:37:17.956 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:37:22.709 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:37:22.711 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:37:26.391 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:37:26.396 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:37:31.166 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:37:31.169 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:37:41.765 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:38:46.681 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:38:48.016 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:38:48.029 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:38:53.240 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:38:53.241 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:38:57.103 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:38:57.105 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:39:00.708 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:39:00.709 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:39:11.203 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:39:33.417 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:39:35.555 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:39:35.564 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:39:39.929 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:39:39.930 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:39:43.583 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:39:43.585 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:39:47.078 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:39:47.079 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:39:57.656 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:40:16.330 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:40:19.267 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:40:19.275 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:40:23.376 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:40:23.377 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:40:26.903 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:40:26.904 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:40:31.839 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:40:31.839 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:40:42.389 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:41:18.144 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:41:20.509 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:41:20.521 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:41:24.769 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:41:24.770 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:41:29.255 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:41:29.259 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:41:33.479 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:41:33.480 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:41:44.538 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:25:12.568 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:25:17.916 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:25:17.940 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:25:22.673 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:25:22.673 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:25:26.596 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:25:26.597 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:25:30.714 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:25:30.714 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:25:41.376 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:30:47.479 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:30:49.847 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:30:49.866 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:30:55.048 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:30:55.054 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:30:59.406 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:30:59.408 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:31:03.604 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:31:03.604 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:31:14.152 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:31:14.159 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:31:24.646 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:31:24.660 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:31:35.126 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:31:35.133 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:31:45.508 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:33:28.182 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:33:38.480 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:33:48.681 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:33:59.126 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:34:09.417 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:34:19.611 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:34:29.796 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:34:40.087 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:34:50.373 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:35:00.656 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:36:59.360 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:37:09.598 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:37:19.771 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:37:30.136 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:37:40.303 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:38:52.208 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:38:54.289 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:38:54.301 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:38:58.938 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:38:58.945 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:39:02.868 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:39:02.868 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:39:07.491 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:39:07.491 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:39:18.315 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:39:18.318 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:39:28.875 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:39:28.883 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:39:39.341 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:39:39.349 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:39:49.776 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:39:49.787 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:40:00.629 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:40:00.639 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:40:05.493 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+14:15:47.122 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:15:50.956 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+14:15:50.987 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:15:54.732 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+14:15:54.743 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:16:00.767 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+14:16:00.772 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:16:04.729 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+14:16:04.734 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:16:15.500 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+14:16:15.508 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:16:25.985 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+14:16:25.985 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:16:36.457 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+14:16:36.458 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:16:46.858 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+14:16:46.859 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:16:57.273 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+14:16:57.273 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+14:17:02.150 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:13:01.147 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:13:11.902 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:13:22.177 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:13:32.337 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:13:42.535 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:13:52.713 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:14:02.970 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:14:13.224 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:14:23.500 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:14:33.841 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:15:18.256 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:15:28.501 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:15:38.696 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:15:49.720 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:15:49.723 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:15:54.430 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:15:54.433 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:16:05.189 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:16:05.191 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:16:15.681 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:16:15.682 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:16:26.133 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:16:26.136 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:16:36.490 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:16:36.492 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:16:46.927 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:16:46.929 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:16:50.896 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:17:41.806 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:17:50.581 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:17:50.600 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:17:55.404 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:17:55.409 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:17:59.874 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:17:59.877 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:18:04.203 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:18:04.206 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:18:14.944 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:18:14.946 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:18:25.453 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:18:25.455 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:18:35.894 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:18:35.896 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:18:46.342 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:18:46.344 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:18:56.793 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:18:56.795 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:19:00.696 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:21:04.543 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:21:06.326 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:21:06.342 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:21:11.088 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:21:11.091 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:21:15.942 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:21:15.944 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:21:20.821 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:21:20.825 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:21:31.339 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:21:31.342 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:21:41.841 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:21:41.843 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:21:52.330 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:21:52.332 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:22:02.788 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:22:02.790 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:22:13.227 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:22:13.230 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:22:17.454 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:00:39.950 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Clicking on Home page***
+19:00:43.854 [main] INFO  testCases.TC_002_AddOraganisationTest - ***adding organisation details****
+19:00:45.728 [main] INFO  testCases.TC_002_AddOraganisationTest - ***filling communication address details***
+19:00:46.862 [main] INFO  testCases.TC_002_AddOraganisationTest - ***filling Registered address  details***
+19:00:47.992 [main] INFO  testCases.TC_002_AddOraganisationTest - ***clicking on save next button***
+19:00:48.065 [main] INFO  testCases.TC_002_AddOraganisationTest - ***successfully clicked on save and next button***
+19:00:48.065 [main] INFO  testCases.TC_002_AddOraganisationTest - ****will Validate condition in contact person page***
+19:00:48.672 [main] INFO  testCases.TC_002_AddOraganisationTest - **** Validated condition in contact person page***
+19:00:48.672 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Basic data of addOrganisation done***
+19:00:48.701 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Filling details into contact person page***
+19:00:49.521 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Filled  contact person details***
+19:00:49.689 [main] INFO  testCases.TC_002_AddOraganisationTest - ****checking functionality of privious button in contact person page***
+19:00:49.729 [main] INFO  testCases.TC_002_AddOraganisationTest - ****back to contact person details***
+19:00:51.515 [main] INFO  testCases.TC_002_AddOraganisationTest - ***filled Account Manager details
+19:00:51.550 [main] INFO  testCases.TC_002_AddOraganisationTest - ****Clicked save and next button***
+19:00:52.143 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Validated an element in Bank detail page***
+19:00:52.143 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Will enter banking details***
+19:00:52.839 [main] INFO  testCases.TC_002_AddOraganisationTest - *** entered banking details***
+19:00:52.839 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Will enter banking contact person  details***
+19:00:53.673 [main] INFO  testCases.TC_002_AddOraganisationTest - entered phone number
+19:00:53.677 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Will enter banking address details***
+19:00:54.028 [main] INFO  testCases.TC_002_AddOraganisationTest - ***checking functionality of privious button in Banking detail page***
+19:00:54.069 [main] INFO  testCases.TC_002_AddOraganisationTest - *** privious button works fine in Banking detail page***
+19:00:54.119 [main] INFO  testCases.TC_002_AddOraganisationTest - ***back to banking address details***
+19:00:54.982 [main] INFO  testCases.TC_002_AddOraganisationTest - ***entred postal pincode***
+19:00:55.188 [main] INFO  testCases.TC_002_AddOraganisationTest - ***entred state***
+19:02:59.753 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Clicking on Home page***
+19:03:04.118 [main] INFO  testCases.TC_002_AddOraganisationTest - ***adding organisation details****
+19:03:06.066 [main] INFO  testCases.TC_002_AddOraganisationTest - ***filling communication address details***
+19:03:07.127 [main] INFO  testCases.TC_002_AddOraganisationTest - ***filling Registered address  details***
+19:03:08.145 [main] INFO  testCases.TC_002_AddOraganisationTest - ***clicking on save next button***
+19:03:08.210 [main] INFO  testCases.TC_002_AddOraganisationTest - ***successfully clicked on save and next button***
+19:03:08.210 [main] INFO  testCases.TC_002_AddOraganisationTest - ****will Validate condition in contact person page***
+19:03:08.818 [main] INFO  testCases.TC_002_AddOraganisationTest - **** Validated condition in contact person page***
+19:03:08.818 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Basic data of addOrganisation done***
+19:03:08.857 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Filling details into contact person page***
+19:03:09.623 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Filled  contact person details***
+19:03:09.789 [main] INFO  testCases.TC_002_AddOraganisationTest - ****checking functionality of privious button in contact person page***
+19:03:09.831 [main] INFO  testCases.TC_002_AddOraganisationTest - ****back to contact person details***
+19:03:11.737 [main] INFO  testCases.TC_002_AddOraganisationTest - ***filled Account Manager details
+19:03:11.772 [main] INFO  testCases.TC_002_AddOraganisationTest - ****Clicked save and next button***
+19:03:12.363 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Validated an element in Bank detail page***
+19:03:12.363 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Will enter banking details***
+19:03:13.023 [main] INFO  testCases.TC_002_AddOraganisationTest - *** entered banking details***
+19:03:13.023 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Will enter banking contact person  details***
+19:03:13.726 [main] INFO  testCases.TC_002_AddOraganisationTest - entered phone number
+19:03:13.726 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Will enter banking address details***
+19:03:13.989 [main] INFO  testCases.TC_002_AddOraganisationTest - ***checking functionality of privious button in Banking detail page***
+19:03:14.034 [main] INFO  testCases.TC_002_AddOraganisationTest - *** privious button works fine in Banking detail page***
+19:03:14.065 [main] INFO  testCases.TC_002_AddOraganisationTest - ***back to banking address details***
+19:03:14.874 [main] INFO  testCases.TC_002_AddOraganisationTest - ***entred postal pincode***
+19:03:15.023 [main] INFO  testCases.TC_002_AddOraganisationTest - ***entred state***
+19:07:18.519 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:07:24.070 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:07:24.102 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:07:28.602 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:07:28.611 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:07:33.428 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:07:33.431 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:07:38.575 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:07:38.582 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:07:49.505 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:07:49.512 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:08:00.013 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:08:00.018 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:08:10.460 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:08:10.468 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:08:20.865 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:08:20.868 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:08:31.319 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:08:31.322 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:08:37.038 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:17:20.285 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Clicking on Home page***
+19:17:27.370 [main] INFO  testCases.TC_002_AddOraganisationTest - ***adding organisation details****
+19:17:28.998 [main] INFO  testCases.TC_002_AddOraganisationTest - ***filling communication address details***
+19:17:29.861 [main] INFO  testCases.TC_002_AddOraganisationTest - ***filling Registered address  details***
+19:17:30.705 [main] INFO  testCases.TC_002_AddOraganisationTest - ***clicking on save next button***
+19:17:30.767 [main] INFO  testCases.TC_002_AddOraganisationTest - ***successfully clicked on save and next button***
+19:17:30.768 [main] INFO  testCases.TC_002_AddOraganisationTest - ****will Validate condition in contact person page***
+19:17:31.451 [main] INFO  testCases.TC_002_AddOraganisationTest - **** Validated condition in contact person page***
+19:17:31.451 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Basic data of addOrganisation done***
+19:17:31.477 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Filling details into contact person page***
+19:17:32.194 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Filled  contact person details***
+19:17:32.358 [main] INFO  testCases.TC_002_AddOraganisationTest - ****checking functionality of privious button in contact person page***
+19:17:32.400 [main] INFO  testCases.TC_002_AddOraganisationTest - ****back to contact person details***
+19:17:33.800 [main] INFO  testCases.TC_002_AddOraganisationTest - ***filled Account Manager details
+19:17:33.836 [main] INFO  testCases.TC_002_AddOraganisationTest - ****Clicked save and next button***
+19:17:34.429 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Validated an element in Bank detail page***
+19:17:34.429 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Will enter banking details***
+19:17:35.142 [main] INFO  testCases.TC_002_AddOraganisationTest - *** entered banking details***
+19:17:35.142 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Will enter banking contact person  details***
+19:17:35.817 [main] INFO  testCases.TC_002_AddOraganisationTest - entered phone number
+19:17:35.817 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Will enter banking address details***
+19:17:36.076 [main] INFO  testCases.TC_002_AddOraganisationTest - ***checking functionality of privious button in Banking detail page***
+19:17:36.113 [main] INFO  testCases.TC_002_AddOraganisationTest - *** privious button works fine in Banking detail page***
+19:17:36.155 [main] INFO  testCases.TC_002_AddOraganisationTest - ***back to banking address details***
+19:17:37.105 [main] INFO  testCases.TC_002_AddOraganisationTest - ***entred postal pincode***
+19:17:37.223 [main] INFO  testCases.TC_002_AddOraganisationTest - ***entred state***
+19:17:37.403 [main] INFO  testCases.TC_002_AddOraganisationTest - ****entered All the details of Banks****
+19:17:37.403 [main] INFO  testCases.TC_002_AddOraganisationTest - ***successfully clicked on save button***
+19:17:38.537 [main] INFO  testCases.TC_002_AddOraganisationTest - **Condition validated**
+19:43:21.917 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:43:27.171 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:43:27.194 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:43:31.250 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:43:31.253 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:43:37.136 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:43:37.138 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:43:41.893 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:43:41.898 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:43:52.594 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:43:52.597 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:44:03.049 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:44:03.051 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:44:13.490 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:44:13.492 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:44:23.862 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:44:23.863 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:44:34.243 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:44:34.244 [main] INFO  testCases.LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:44:39.077 [main] INFO  testCases.LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
