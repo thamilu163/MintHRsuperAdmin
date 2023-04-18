@@ -53,17 +53,17 @@ public class AddOrganizationPage extends BasePage {
 	private WebElement chekRegSameCom_address;
 
 	// Registered address
-	@FindBy(xpath = "//div[10]//input[1]")
+	@FindBy(xpath = "(//input[@id='street'])[2]")
 	private WebElement txtRA_Address;
-	@FindBy(xpath = "//div[11]//input[1]")
+	@FindBy(xpath = "(//input[@id='landmark'])[2]")
 	private WebElement txtRA_Landmark;
 	@FindBy(xpath = "//div[12]//div[1]//div[1]//input[1]")
 	private WebElement txtRA_City;
-	@FindBy(xpath = "//div[12]//div[2]//input[1]")
+	@FindBy(xpath = "(//input[@id='postal-code'])[2]")
 	private WebElement txtRA_PostalCode;
-	@FindBy(xpath = "//div[13]//div[1]//input[1]")
+	@FindBy(xpath = "(//input[@id='state'])[2]")
 	private WebElement txtRA_State;
-	@FindBy(xpath = "//div[13]/div[2]//div[1]/select[1]")
+	@FindBy(xpath = "(//select[@id='country'])[2]")
 	private WebElement seleRA_Country;
 	@FindBy(xpath = "//button[@type='submit'][normalize-space()='Save & Next']")
 	private WebElement btnBS_Save_Next;
@@ -134,7 +134,7 @@ public class AddOrganizationPage extends BasePage {
 	@FindBy(xpath = "//div[@class='tab-pane active fade show']//select[@id='country']")
 	private WebElement seleBA_Country;
 	@FindBy(xpath = "//button[normalize-space()='Save']")
-	private WebElement btnDB_Save;
+	private WebElement btnBD_Save;
 	@FindBy(xpath = "//button[@class='mr-2 mt-3 btn btn-primary']")
 	private WebElement btnBD_Privious;
 
@@ -204,7 +204,7 @@ public class AddOrganizationPage extends BasePage {
 	}
 
 	public void clickRegSameCom_address() {
-		chekRegSameCom_address.click();
+		js.executeScript("arguments[0].click()", chekRegSameCom_address);
 	}
 
 	// Registered address
@@ -223,11 +223,17 @@ public class AddOrganizationPage extends BasePage {
 		txtRA_City.submit();
 	}
 
-	public void setRA_PostalCode(String code) {
-		txtRA_PostalCode.sendKeys(code);
+	public void setRA_PostalCode(String code) {//for hard coded
+	//mywait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//input[@id='state'])[2]"))).sendKeys(code);
+		//js.executeScript("arguments[0].value='code';",txtRA_PostalCode);
+	   txtRA_PostalCode.sendKeys(code);
 		txtRA_PostalCode.submit();
 	}
+	public void setRA_PostalCode1(String code) {//data driven
+		mywait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//input[@id='state'])[2]"))).sendKeys(code);
+		//js.executeScript("arguments[0].value='code';",txtRA_PostalCode);
 
+	}
 	public void setRA_State(String state) {
 		txtRA_State.sendKeys(state);
 		txtRA_State.submit();
@@ -240,6 +246,7 @@ public class AddOrganizationPage extends BasePage {
 	}
 
 	public void clickBS_Save_Next() {
+	//	mywait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//button[@type='submit'][normalize-space()='Save & Next']"))).click();
 		js.executeScript("arguments[0].click();", btnBS_Save_Next);
 	}
 
@@ -353,28 +360,28 @@ public class AddOrganizationPage extends BasePage {
 
 	public void setBD_Numb_User(String numUser) {
 		txtBD_Numb_User.sendKeys(numUser);
-		txtBD_Numb_User.submit();
+		//txtBD_Numb_User.submit();
 	}
 
 	// Billing contact person detail
 	public void setBCP_Firstname(String fname) {
 		txtBCP_Firstname.sendKeys(fname);
-		txtBCP_Firstname.submit();
+		//txtBCP_Firstname.submit();
 	}
 
 	public void setBCP_Middlename(String mname) {
 		txtBCP_Middlename.sendKeys(mname);
-		txtBCP_Middlename.submit();
+		//txtBCP_Middlename.submit();
 	}
 
 	public void setBCP_Lastname(String lname) {
 		txtBCP_Lastname.sendKeys(lname);
-		txtBCP_Lastname.submit();
+		//txtBCP_Lastname.submit();
 	}
 
 	public void setBCP_EmailAddress(String email) {
 		txtBCP_EmailAddress.sendKeys(email);
-		txtBCP_EmailAddress.submit();
+		//txtBCP_EmailAddress.submit();
 	}
 
 	public void setBCP_PhoneNumber(String phonenumber) {
@@ -384,37 +391,37 @@ public class AddOrganizationPage extends BasePage {
 
 	public void setBA_Address(String address) {
 		txtBA_Address.sendKeys(address);
-		txtBA_Address.submit();
+		//txtBA_Address.submit();
 	}
 
 	public void setBA_Landmark(String landmark) {
 		txtBA_Landmark.sendKeys(landmark);
-		txtBA_Landmark.submit();
+		//txtBA_Landmark.submit();
 	}
 
 	public void setBA_City(String city) {
 		txtBA_City.sendKeys(city);
-		txtBA_City.submit();
+		//txtBA_City.submit();
 	}
 
 	public void setBA_PostalCode(String pcode) {
 		txtBA_PostalCode.sendKeys(pcode);
-		txtBA_PostalCode.submit();
+		//txtBA_PostalCode.submit();
 	}
 
 	public void setBA_State(String state) {
 		txtBA_State.sendKeys(state);
-		txtBA_State.submit();
+		//txtBA_State.submit();
 	}
 
 	public void setBA_Country(String country) {
 		Select cntry = new Select(seleBA_Country);
 		cntry.selectByVisibleText(country);
-		seleBA_Country.submit();
+		//seleBA_Country.submit();
 	}
 
-	public void clickDB_Save() {
-		js.executeScript("arguments[0].click()", btnDB_Save);
+	public void clickBD_Save() {
+		js.executeScript("arguments[0].click()", btnBD_Save);
 
 	}
 

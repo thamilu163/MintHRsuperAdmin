@@ -48,7 +48,8 @@ public class HomePage extends BasePage {
 	}
 
 	public void clickOrganisation() {
-		btnOrganisation.click();
+		//btnOrganisation.click();
+		js.executeScript("arguments[0].click();", btnOrganisation );	
 	}
 
 	public void clickAddOrganisation() {

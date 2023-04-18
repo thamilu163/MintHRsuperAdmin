@@ -14,9 +14,9 @@ public void test_ViewOrganisationTable() throws InterruptedException {
 	hp.clickOrganisation();
 	hp.clickViewOrganisation();
 	ViewOrganizationsPage vop=new ViewOrganizationsPage(driver);
-	//vop.setSearch("Bytelearn");
-	//vop.clickActions(); // Explicit wait needed 
-	System.out.println(vop.getAttributeValue());
+	vop.setTxtSearchByOrgname("CASNU");
+	vop.clickActions(); // Explicit wait needed
+	//System.out.println(vop.getAttributeValue());
 
 	Thread.sleep(5000);
 }

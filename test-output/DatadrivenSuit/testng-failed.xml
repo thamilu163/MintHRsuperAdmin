@@ -7,14 +7,14 @@
   <test thread-count="5" name="DataDrivenTest(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.LoginDataDrivenTest">
+      <class name="testCases.AddOrganizationDataDriven">
         <methods>
+          <include name="test_BasicDataDDT"/>
           <include name="tearDown"/>
           <include name="Login"/>
           <include name="setup"/>
-          <include name="test_LoginDDT"/>
         </methods>
-      </class> <!-- testCases.LoginDataDrivenTest -->
+      </class> <!-- testCases.AddOrganizationDataDriven -->
     </classes>
   </test> <!-- DataDrivenTest(failed) -->
 </suite> <!-- Failed suite [DatadrivenSuit] -->
