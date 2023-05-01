@@ -426,3 +426,32 @@
 14:20:25.677 [main] INFO  testCases.TC_002_AddOraganisationTest - ****entered All the details of Banks****
 14:20:30.730 [main] INFO  testCases.TC_002_AddOraganisationTest - ***successfully clicked on save button***
 14:20:30.777 [main] INFO  testCases.TC_002_AddOraganisationTest - **Condition validated**
+14:27:30.158 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Clicking on Home page***
+14:27:34.594 [main] INFO  testCases.TC_002_AddOraganisationTest - ***adding organisation details****
+14:27:35.766 [main] INFO  testCases.TC_002_AddOraganisationTest - ***filling communication address details***
+14:27:36.307 [main] INFO  testCases.TC_002_AddOraganisationTest - ***filling Registered address  details***
+14:27:41.857 [main] INFO  testCases.TC_002_AddOraganisationTest - ***clicking on save next button***
+14:27:41.912 [main] INFO  testCases.TC_002_AddOraganisationTest - ***successfully clicked on save and next button***
+14:27:41.913 [main] INFO  testCases.TC_002_AddOraganisationTest - ****will Validate condition in contact person page***
+14:27:43.063 [main] INFO  testCases.TC_002_AddOraganisationTest - **** Validated condition in contact person page***
+14:27:43.063 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Basic data of addOrganisation done***
+14:27:43.077 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Filling details into contact person page***
+14:27:43.627 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Filled  contact person details***
+14:27:43.740 [main] INFO  testCases.TC_002_AddOraganisationTest - ****checking functionality of privious button in contact person page***
+14:27:43.806 [main] INFO  testCases.TC_002_AddOraganisationTest - ****back to contact person details***
+14:27:45.464 [main] INFO  testCases.TC_002_AddOraganisationTest - ***filled Account Manager details
+14:27:45.495 [main] INFO  testCases.TC_002_AddOraganisationTest - ****Clicked save and next button***
+14:27:46.073 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Validated an element in Bank detail page***
+14:27:46.073 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Will enter banking details***
+14:27:46.558 [main] INFO  testCases.TC_002_AddOraganisationTest - *** entered banking details***
+14:27:46.558 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Will enter banking contact person  details***
+14:27:46.978 [main] INFO  testCases.TC_002_AddOraganisationTest - entered phone number
+14:27:46.978 [main] INFO  testCases.TC_002_AddOraganisationTest - ***Will enter banking address details***
+14:27:47.117 [main] INFO  testCases.TC_002_AddOraganisationTest - ***checking functionality of privious button in Banking detail page***
+14:27:47.138 [main] INFO  testCases.TC_002_AddOraganisationTest - *** privious button works fine in Banking detail page***
+14:27:47.171 [main] INFO  testCases.TC_002_AddOraganisationTest - ***back to banking address details***
+14:27:47.693 [main] INFO  testCases.TC_002_AddOraganisationTest - ***entred postal pincode***
+14:27:47.778 [main] INFO  testCases.TC_002_AddOraganisationTest - ***entred state***
+14:27:47.874 [main] INFO  testCases.TC_002_AddOraganisationTest - ****entered All the details of Banks****
+14:27:52.919 [main] INFO  testCases.TC_002_AddOraganisationTest - ***successfully clicked on save button***
+14:27:52.951 [main] INFO  testCases.TC_002_AddOraganisationTest - **Condition validated**
