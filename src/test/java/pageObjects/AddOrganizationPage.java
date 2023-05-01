@@ -41,13 +41,13 @@ public class AddOrganizationPage extends BasePage {
 	private WebElement txtCA_Address;
 	@FindBy(xpath = "//div[@class='tab-pane active fade show']//div[6]//input[1]")
 	private WebElement txtCA_Landmark;
-	@FindBy(xpath = "//div[@class='tab-pane active fade show']//div[7]//div[1]//div[1]//input[1]")
+	@FindBy(xpath = "(//input[@id='city'])[1]")
 	private WebElement txtCA_City;
-	@FindBy(xpath = "//div[7]//div[2]//div[1]//input[1]")
+	@FindBy(xpath = "(//input[@id='postal-code'])[1]")
 	private WebElement txtCA_PostalCode;
-	@FindBy(xpath = "//div[8]//div[1]//div[1]//input[1]")
+	@FindBy(xpath = "(//input[@id='state'])[1]")
 	private WebElement txtCA_State;
-	@FindBy(xpath = "//div[8]//div[2]//div[1]//select[1]")
+	@FindBy(xpath = "(//select[@name='select'])[1]")
 	private WebElement seleCA_Country;
 	@FindBy(xpath = "//input[@type='checkbox'][@class='jss4']")
 	private WebElement chekRegSameCom_address;
@@ -57,7 +57,7 @@ public class AddOrganizationPage extends BasePage {
 	private WebElement txtRA_Address;
 	@FindBy(xpath = "(//input[@id='landmark'])[2]")
 	private WebElement txtRA_Landmark;
-	@FindBy(xpath = "//div[12]//div[1]//div[1]//input[1]")
+	@FindBy(xpath = "(//input[@id='city'])[2]")
 	private WebElement txtRA_City;
 	@FindBy(xpath = "(//input[@id='postal-code'])[2]")
 	private WebElement txtRA_PostalCode;
@@ -142,65 +142,65 @@ public class AddOrganizationPage extends BasePage {
 	// Basic data
 	public void setOrganizationName(String name) {
 		txtOrganizationName.sendKeys(name);
-		txtOrganizationName.submit();
+		//txtOrganizationName.submit();
 	}
 
 	public void setGSTnumber(String gst) {
 		txtGSTnumber.sendKeys(gst);
-		txtGSTnumber.submit();
+		//txtGSTnumber.submit();
 	}
 
 	public void setBasicDataEmail(String email) {
 		txtBasicDataEmail.sendKeys(email);
-		txtBasicDataEmail.submit();
+		//txtBasicDataEmail.submit();
 	}
 
 	public void setOrganizationCode(String code) {
 		txtOrganizationCode.sendKeys(code);
-		txtOrganizationCode.submit();
+		//txtOrganizationCode.submit();
 	}
 
 	public void setPANNumber(String pan) {
 		txtPANnumber.sendKeys(pan);
-		txtPANnumber.submit();
+		//txtPANnumber.submit();
 	}
 
 	public void setTANNumber(String tan) {
 		txtTANnumber.sendKeys(tan);
-		txtTANnumber.submit();
+		//txtTANnumber.submit();
 	}
 
 	// Communication address
 
 	public void setCA_Address(String address) {
 		txtCA_Address.sendKeys(address);
-		txtCA_Address.submit();
+		//txtCA_Address.submit();
 	}
 
 	public void setCA_Landmark(String landmark) {
 		txtCA_Landmark.sendKeys(landmark);
-		txtCA_Landmark.submit();
+		//txtCA_Landmark.submit();
 	}
 
 	public void setCA_City(String city) {
 		txtCA_City.sendKeys(city);
-		txtCA_City.submit();
+		//txtCA_City.submit();
 	}
 
 	public void setCA_PostalCode(String PinCode) {
 		txtCA_PostalCode.sendKeys(PinCode);
-		txtCA_PostalCode.submit();
+		//txtCA_PostalCode.submit();
 	}
 
 	public void setCA_State(String state) {
 		txtCA_State.sendKeys(state);
-		txtCA_State.submit();
+		//txtCA_State.submit();
 	}
 
 	public void setCA_Country(String country) {
 		Select dropCountry = new Select(seleCA_Country);
 		dropCountry.selectByVisibleText(country);
-		seleCA_Country.submit();
+		//seleCA_Country.submit();
 	}
 
 	public void clickRegSameCom_address() {
@@ -210,43 +210,45 @@ public class AddOrganizationPage extends BasePage {
 	// Registered address
 	public void setRA_Address(String address) {
 		txtRA_Address.sendKeys(address);
-		txtRA_Address.submit();
+		//txtRA_Address.submit();
 	}
 
 	public void setRA_Landmark(String landmark) {
 		txtRA_Landmark.sendKeys(landmark);
-		txtRA_Landmark.submit();
+		//txtRA_Landmark.submit();
 	}
 
 	public void setRA_City(String city) {
 		txtRA_City.sendKeys(city);
-		txtRA_City.submit();
+		//txtRA_City.submit();
 	}
 
 	public void setRA_PostalCode(String code) {//for hard coded
 	//mywait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//input[@id='state'])[2]"))).sendKeys(code);
 		//js.executeScript("arguments[0].value='code';",txtRA_PostalCode);
 	   txtRA_PostalCode.sendKeys(code);
-		txtRA_PostalCode.submit();
+		//txtRA_PostalCode.submit();
 	}
-	public void setRA_PostalCode1(String code) {//data driven
-		mywait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//input[@id='state'])[2]"))).sendKeys(code);
-		//js.executeScript("arguments[0].value='code';",txtRA_PostalCode);
+	
 
-	}
+	
 	public void setRA_State(String state) {
+		//mywait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("(//input[@placeholder='Enter your state'])[2]"))).sendKeys(state);
+		//js.executeScript("arguments[0].value='state';" ,txtRA_State);
 		txtRA_State.sendKeys(state);
-		txtRA_State.submit();
+		//txtRA_State.submit();
 	}
 
 	public void setRA_Country(String country) {
 		Select drpCtry = new Select(seleRA_Country);
 		drpCtry.selectByVisibleText(country);
-		seleRA_Country.submit();
+		//seleRA_Country.submit();
+	//	WebElement dropDownListBox = driver.findElement(By.xpath("(//select[@id='country'])[2]"));
+	//	((JavascriptExecutor)driver).executeScript("var select = arguments[0]; for(var i = 0; i < select.options.length; i++){ if(select.options[i].text == arguments[1]){ select.options[i].selected = true; } }", dropDownListBox, "country");
 	}
 
 	public void clickBS_Save_Next() {
-	//	mywait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//button[@type='submit'][normalize-space()='Save & Next']"))).click();
+		//mywait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//button[@type='submit'][normalize-space()='Save & Next']"))).click();
 		js.executeScript("arguments[0].click();", btnBS_Save_Next);
 	}
 
@@ -266,8 +268,9 @@ public class AddOrganizationPage extends BasePage {
 	}
 
 	public void setCP_Firstname(String name) {
+		//mywait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[@class='row form-group my-0']//input[@id='cp_first_name']"))).sendKeys(name);
 		txtCP_Firstname.sendKeys(name);
-		txtCP_Firstname.submit();
+		//txtCP_Firstname.submit();
 	}
 
 	public void setCP_Milddlename(String middle) {

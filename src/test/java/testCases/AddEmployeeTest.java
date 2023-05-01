@@ -4,12 +4,17 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageObjects.AddEmployeePage;
 import pageObjects.HomePage;
+import pageObjects.LoginPage;
 import pageObjects.ViewOrganizationsPage;
 import testBase.BaseClass;
 
 public class AddEmployeeTest extends BaseClass {
     @Test(priority = 1)
     public void testBasicData() throws InterruptedException {
+    	LoginPage lp=new LoginPage(driver);
+    	lp.setUsername(rb.getString("email"));
+    	lp.setPassword(rb.getString("password"));
+    	lp.cickLogin();
         HomePage hp=new HomePage(driver);
         hp.clickOrganisation();
         hp.clickViewOrganisation();

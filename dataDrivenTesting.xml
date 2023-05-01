@@ -7,8 +7,8 @@
 	<test name="DataDrivenTest">
 		<parameter name="browser" value="chrome" />
 		<classes>
-			<!--<class name="testCases.LoginDataDrivenTest"/> -->
-			<class name="testCases.AddOrganizationDataDriven"/>
+				<!--<class name="testCases.LoginDataDrivenTest"/> -->
+		<class name="testCases.AddOrganizationDataDriven"/>
 		</classes>
 	</test>
 </suite>

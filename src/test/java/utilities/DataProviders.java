@@ -33,23 +33,38 @@ public class DataProviders {
 	}
 
 	// DataProvider 2
-	@DataProvider(name="BasicDataOrg")
+	@DataProvider(name = "BasicDataOrg")
 	public static Object[][] getOrgBasicData() throws IOException {
-		ra=ResourceBundle.getBundle("excelpath");
-		String path=ra.getString("addOrgBasicData"); //taking xl file from testData
-		InputFromExcl ife=new InputFromExcl();
-		List<Map<String,String>> lmss=ife.readingEXL(path,"basicdata");
-		Object basicdata[][]=new Object[lmss.size()][1];
+		ra = ResourceBundle.getBundle("excelpath");
+		String path = ra.getString("addOrganization"); //taking xl file from testData
+		InputFromExcl ife = new InputFromExcl();
+		List<Map<String, String>> lmss = ife.readingEXL(path, "Sheet1");
+		Object basicdata[][] = new Object[lmss.size()][1];
 		HashMap<String, String> map;
-		int i=0;
-		for (Map<String, String>obd:lmss ) {
-			basicdata[i][0]=obd;
+		int i = 0;
+		for (Map<String, String> obd : lmss) {
+			basicdata[i][0] = obd;
 			i++;
 		}
 		return basicdata;
 
 	}
-	// DataProvider 3
 
-	// DataProvider 4
+	// DataProvider 3
+	/*@DataProvider(name = "ContactPersonOrg")
+	public static Object[][] getOrgContactPerson() throws IOException {
+		ra = ResourceBundle.getBundle("excelpath");
+		String path = ra.getString("addOrgBasicData"); //taking xl file from testData
+		InputFromExcl ife = new InputFromExcl();
+		List<Map<String, String>> lmss = ife.readingEXL(path, "contactPerson");
+		Object basicdata[][] = new Object[lmss.size()][1];
+		HashMap<String, String> map;
+		int i = 0;
+		for (Map<String, String> obd : lmss) {
+			basicdata[i][0] = obd;
+			i++;
+		}
+		return basicdata;
+		// DataProvider 4
+	}*/
 }

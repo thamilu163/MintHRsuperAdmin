@@ -59,13 +59,13 @@ public class BaseClass {
 	public void tearDown() {
 		driver.quit();
 	}
-   @BeforeClass (dependsOnMethods="setup")
+  /* @BeforeClass (dependsOnMethods="setup")
 	public void  Login() {	
 	LoginPage lp=new LoginPage(driver);
 	lp.setUsername(rb.getString("email"));
 	lp.setPassword(rb.getString("password"));
 	lp.cickLogin();
-		}
+		} */
 
 
 	public String randomeString() {

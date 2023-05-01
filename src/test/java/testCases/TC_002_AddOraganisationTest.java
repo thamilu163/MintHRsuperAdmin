@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 
 import pageObjects.AddOrganizationPage;
 import pageObjects.HomePage;
+import pageObjects.LoginPage;
 import pageObjects.ViewOrganizationsPage;
 import testBase.BaseClass;
 import utilities.DataProviders;
@@ -18,6 +19,10 @@ public class TC_002_AddOraganisationTest extends BaseClass {
 	public void test_BasicData1() {
 		  logger.info("***Clicking on Home page***");
 	        try {
+				LoginPage lp=new LoginPage(driver);
+				lp.setUsername(rb.getString("email"));
+				lp.setPassword(rb.getString("password"));
+				lp.cickLogin();
 	            HomePage hp = new HomePage(driver);
 	            hp.clickOrganisation();
 	            hp.clickAddOrganisation();
@@ -33,7 +38,7 @@ public class TC_002_AddOraganisationTest extends BaseClass {
 	            aop.setCA_Address("Peruvaje house 1-123/1");
 	            aop.setCA_Landmark("Bellare");
 	            aop.setCA_City("Mangalore");
-	            aop.setCA_PostalCode("574212");
+	            aop.setCA_PostalCode("577452");
 	            aop.setCA_State("Karnataka");
 	            aop.setCA_Country("India");
 	            logger.info("***filling Registered address  details***");
@@ -42,9 +47,10 @@ public class TC_002_AddOraganisationTest extends BaseClass {
 			   //Thread.sleep(5000);
 	            aop.setRA_Landmark("Bellare");
 	            aop.setRA_City("Mangalore");
-	            aop.setRA_PostalCode("574212");
+	            aop.setRA_PostalCode("574410");
 	            aop.setRA_State("Karnataka");
-	            aop.setRA_Country("India");
+	            aop.setRA_Country("Canada");
+	            Thread.sleep(5000);
 	            logger.info("***clicking on save next button***");
 	            aop.clickBS_Save_Next();
 	            logger.info("***successfully clicked on save and next button***");
